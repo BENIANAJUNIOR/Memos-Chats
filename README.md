@@ -2,26 +2,34 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+To develop a peer-to-peer video call application with a seamless lobby system that allows users to join a room and invite others without requiring a room ID. The application will provide essential video calling features, including mic muting, camera toggling, screen sharing, and real-time chat.
+A key focus is to create an engaging user experience inspired by Discord and Twitter Spaces, where participants appear in circular frames. Users can click to focus on a participant or switch back to group view. Additionally, the app will display participant names and a welcome message upon joining.
+This project aims to deliver a modern, interactive, and user-friendly video calling platform with full communication control.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Advanced understanding of WebRTC concepts and practical JavaScrip APL's.
+- Proficiency in HTML, CSS and Javascrip.
+- Enhanced knowledge of Agora APIs, broad range of SDKs, and partner ecosystem.
+- Development of critical thinking and problem-solving skills.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- HTML: to structure the content of the web application.
+- CSS: to describe the presentation of teh web application.
+- Pycharm : to develop my web application.
+- Javascript : to add dynamic and interactive elements to the web pages.
+- Agora APIs, broad range of SDKs, and partner ecosystem where used in embed
+  voice, video, real-time messaging.
+- WebRTC set of JavaScript API’s where used in establishing a peer to peer connection
+  in the web application to exchange data.
+
+
+
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+
+![Login page](https://github.com/user-attachments/assets/093076e9-5598-4753-bd0f-4b7faad39437)
 
 Every screenshot should have some text explaining what the screenshot is about.
 
