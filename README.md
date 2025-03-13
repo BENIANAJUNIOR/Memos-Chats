@@ -30,9 +30,8 @@ This project aims to deliver a modern, interactive, and user-friendly video call
 ## Steps
 
 ![Login page](https://github.com/user-attachments/assets/093076e9-5598-4753-bd0f-4b7faad39437)
+![Main Page](https://github.com/user-attachments/assets/c860a0b2-e8b4-473a-873d-9280aa530090)
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
-
-*Ref 1: Network Diagram*
+*Ref 1: Login Page of the web application*
+*Ref 2: Main Page of the Web apllication*
