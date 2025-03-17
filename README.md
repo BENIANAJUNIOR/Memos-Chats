@@ -30,9 +30,10 @@ This project aims to deliver a modern, interactive, and user-friendly video call
 
 ## Design Systems
 
-![Login page](https://github.com/user-attachments/assets/093076e9-5598-4753-bd0f-4b7faad39437)
+![Lobby](https://github.com/user-attachments/assets/8a2b1edf-abc6-4e5a-9d39-6c43368126ef)
 
-*Ref 1: Login Page of the web application*
+
+*Ref 1: Lobby of the web application*
 
 
 ![Main Page](https://github.com/user-attachments/assets/c860a0b2-e8b4-473a-873d-9280aa530090)
