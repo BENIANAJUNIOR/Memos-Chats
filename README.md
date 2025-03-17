@@ -18,6 +18,7 @@ This project aims to deliver a modern, interactive, and user-friendly video call
 - HTML: to structure the content of the web application.
 - CSS: to describe the presentation of teh web application.
 - Pycharm : to develop my web application.
+- Figma: to design the web page prototyping and design systems.
 - Javascript : to add dynamic and interactive elements to the web pages.
 - Agora APIs, broad range of SDKs, and partner ecosystem where used in embed
   voice, video, real-time messaging.
@@ -27,7 +28,7 @@ This project aims to deliver a modern, interactive, and user-friendly video call
 
 
 
-## Steps
+## Design Systems
 
 ![Login page](https://github.com/user-attachments/assets/093076e9-5598-4753-bd0f-4b7faad39437)
 
